@@ -4,7 +4,7 @@
 // Created on: Sep 2024
 // This file contains the JS functions for index.html
 
-"use strict";
+"use strict"
 
 function divideNumbers() {
   const dividend = parseInt(document.getElementById('dividendInput').value)
